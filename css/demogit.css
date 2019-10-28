@@ -125,7 +125,7 @@ background-size: 100px 100px;
 	clear: both;
 	
 }
-footer p {
+footer h4, footer address {
 	
         text-align: center;
 	color: rgba(248,248,248,0.98);
