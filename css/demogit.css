@@ -51,6 +51,7 @@ nav ul li a {
 }
 p { 
 	line-height: 1.6;
+	margin-bottom: 2rem;
 }
 aside {
 	background-color: #fff;
