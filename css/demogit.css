@@ -7,7 +7,7 @@
 	}
 body {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color: #BABABA;
+	background-color: #fff;
 	font-size: 115%;
 }
 	
@@ -23,7 +23,7 @@ body {
 }
 
 header {
-	background-color: #D10A2F;
+	background-color: #D10A2F; 
 	padding: 1%;
 	
 }
