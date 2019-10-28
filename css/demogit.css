@@ -55,10 +55,10 @@ nav ul li {
 	width: 17%;
 	padding: 1%;
 }
-nav ul li a:link{
+nav ul li a:link {
 	text-decoration: none;
 	display:block;
-	color:#333;	
+	color: #BFC9CA;
 	padding:1%;
 }
 nav ul li a:visited {
