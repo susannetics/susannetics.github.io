@@ -60,6 +60,12 @@ nav ul li a:link{
 	display:block;
 	color: #7E061C;	
 }
+nav ul li a:visited {
+	
+        display:block;
+	color:#fff;
+}
+
 p { 
 	line-height: 1.6;
 	margin-bottom: 1.6rem;
