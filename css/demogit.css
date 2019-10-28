@@ -41,7 +41,7 @@ header h1 {
 	padding-bottom: 1.5rem;
 }
 nav {
-	background-color: #FFFFFF;
+	background-color: #300;
 	width: 100%;
 	border-bottom-width: thin;
 	border-bottom-style: solid;
@@ -55,7 +55,7 @@ nav ul li {
 	width: 17%;
 	padding: 1%;
 }
-nav ul li a {
+nav ul li a:link{
 	text-decoration: none;
 	display:block;
 	color: #7E061C;	
