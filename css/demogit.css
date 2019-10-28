@@ -49,6 +49,9 @@ nav ul li a {
 	display:block;
 	color: #7E061C;	
 }
+p { 
+	line-height: 1.6;
+}
 aside {
 	background-color: #fff;
 }
