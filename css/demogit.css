@@ -43,9 +43,7 @@ header h1 {
 nav {
 
 	width: 100%;
-	border-bottom-width: thick;
-	border-bottom-style: solid;
-	border-bottom-color:#000;
+	
 }
 nav ul li {
 	
