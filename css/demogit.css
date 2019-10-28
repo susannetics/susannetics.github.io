@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	}
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: #BABABA;
+	font-size: 115%;
+}
+	
+	
+.container {
+	background-color: #fff;
+	width: 90%;
+	margin: 0 auto;
+	min-width: 750px;
+  max-width: 1200px;	
+	
+	
+}
+
+header {
+	background-color: #D10A2F;
+	padding: 1%;
+	
+}
+header h1 {
+	font-size: 375%;
+	font-family: fredericka-the-great, "Tekton Pro", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+	color: rgba(249,249,249,1.00);
+	text-align: center;
+}
+nav {
+	background-color: #FFFFFF;
+	width: 100%;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	text-align:center;
+	font-size: 125%;
+	font-weight: bold;
+	width: 17%;
+	padding: 1%;
+}
+nav ul li a {
+	text-decoration: none;
+	display:block;
+	color: #7E061C;
+	
+	
+}
+aside {
+	background-color: #fff;
+}
+
+aside article {
+	background-color: #fff;
+	padding: 1%;
+}
+
+article ul li {
+	list-style: inside;
+}
+
+article ul li a {
+	color: #000000;
+	
+}
+
+.leftAside {
+	width: 26%;
+	padding: 1%;
+	float: left;
+}
+.leftAside article {
+	padding: 4%;
+}
+.rightAside {
+	width: 20%;
+	padding: 1%;
+	float: right;
+}
+main {
+	width: 48%;
+	float: left;
+	padding: 1%;
+	background-color: #fff;
+}
+
+main section {
+	background-color: #fff;
+	padding: 1%;
+}
+
+footer {
+	background-color: #d10a2f;
+	clear: both;
+	padding: 1%;
+	text-align: center;
+	color: rgba(248,248,248,0.98);
+	font-family: fredericka-the-great, "Tekton Pro", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+}
